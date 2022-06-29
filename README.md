@@ -1,4 +1,5 @@
-- 👋🏻 Hi, I’m @daruwired
+- 👋🏻 Hi, I’m @m0rpheu 
 - 🔭 I'm currently studying about binary exploitation
 - 📫 How to reach me: m0rpheu@proton.me
 - 🌿 Things i'm interested in: GDB, Assembly x86, C-Lang, x64dbg, GNU/Linux, Reverse Engineering, Malwares and Web Hacking
+- 🍄 Fun Fact: my nick refers to the character Morpheus from the Sandman, not the Matrix

@@ -1,4 +1,4 @@
 - 👋🏻 Hi, I’m @daruwired
 - 🔭 I'm currently studying about binary exploitation
 - 📫 How to reach me: m0rpheu@proton.me
-- 🌿 things i'm interested in: GDB, Assembly x86, C-Lang, x64dbg, GNU/Linux, Reverse Engineering, Malwares and Web Hacking
+- 🌿 Things i'm interested in: GDB, Assembly x86, C-Lang, x64dbg, GNU/Linux, Reverse Engineering, Malwares and Web Hacking
